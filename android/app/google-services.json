@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935948334698",
+    "project_id": "brochat-b0688",
+    "storage_bucket": "brochat-b0688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935948334698:android:32e50210516af7642a3c13",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935948334698-93g1lrq887rqu2ec0n11hipddaao0875.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdX82OBw8ZjpXGlvAzfe48BKK4IXwxuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935948334698-93g1lrq887rqu2ec0n11hipddaao0875.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
